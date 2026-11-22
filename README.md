@@ -8,6 +8,11 @@ A Album Art patch for mp3 players with chipset **Smartlink SL6801** running firm
 • Image format: Baseline **JPEG** only.
 • Display & scaling: Scales and center-crops the cover to fill the 128 by 160 display, dimming the brightness by 50% so the Now Playing text and UI overlays remain readable.
 
+### Prerequisites:
+Linux or Windows
+https://github.com/ilyakurdyukov/smartlink_flash/
+An mp3 player with a **SL6801** chip and **yp3_2.0.0 firmware.**
+
 ### Dump your firmware:
 Linux:
 ```bash
@@ -47,5 +52,7 @@ If you would like the source code to fix any bugs that may appear when you flash
 I give credit where it is due, so huge thanks to **dbrant** at https://github.com/dbrant/SL6801_player for providing the main code used for this project.
 
 Also a thanks to **zeroproj** at https://github.com/zeroproj/OpenPod for giving me the inspiration to do this project, and I am very glad it is finished.
+
+Thanks to **ilyakurdyukov** at https://github.com/ilyakurdyukov/smartlink_flash/ for the tool.
 
 Please go check out their work.
