@@ -40,6 +40,9 @@ The stock **2.0.0 firmware** with a simple patch that shows the album/cover art 
 ### Tested:
 Only tested on **yp3_2.0.0 firmware**, you can try to patch newer or older firmware, but they are not guarantee to work.
 
+### Source Code:
+If you would like the source code to fix any bugs that may appear when you flash it, please make an issue in the repo and I will get to it when I can.
+
 ### Credits:
 I give credit where it is due, so huge thanks to **dbrant** at https://github.com/dbrant/SL6801_player for providing the main code used for this project.
 
