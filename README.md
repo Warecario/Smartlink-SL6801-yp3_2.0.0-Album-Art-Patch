@@ -17,3 +17,10 @@ The stock 2.0.0 firmware with a simple patch that shows the album/cover art of a
 
 # Tested:
 Only tested on yp3_2.0.0 firmware, you can try to patch newer or older firmware, but they are not guarantee to work.
+
+# Credits:
+I give credit where it is due, so huge thanks to dbrant at https://github.com/dbrant/SL6801_player for providing the main code used for this project.
+
+Also a thanks to zeroproj at https://github.com/zeroproj/OpenPod for giving me the inspiration to do this project, and I am very glad it is finished.
+
+Please go check out their work.
