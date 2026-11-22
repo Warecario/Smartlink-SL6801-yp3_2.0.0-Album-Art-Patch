@@ -10,7 +10,9 @@ A Album Art patch for mp3 players with chipset **Smartlink SL6801** running firm
 
 ### Prerequisites:
 Linux or Windows
+
 https://github.com/ilyakurdyukov/smartlink_flash/
+
 An mp3 player with a **SL6801** chip and **yp3_2.0.0 firmware.**
 
 ### Dump your firmware:
